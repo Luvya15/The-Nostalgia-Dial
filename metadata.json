@@ -1,0 +1,6 @@
+{
+  "name": "The Nostalgia Dial",
+  "description": "An interactive skeuomorphic web experience that transports users to different eras with audio synthesizers, news headlines, visual art style canvases, and historical inflation trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
